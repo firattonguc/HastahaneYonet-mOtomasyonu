@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\firat\\Desktop\\udemy projeler\\ProjeHastahaneY\u00F6netimOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF1CE31-0C34-4DF8-9BCC-BC3D1FA951F1}|ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu.csproj|c:\\users\\firat\\desktop\\udemy projeler\\projehastahaney\u00F6netimotomasyonu\\projehastahaney\u00F6netimotomasyonu\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF1CE31-0C34-4DF8-9BCC-BC3D1FA951F1}|ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu.csproj|solutionrelative:projehastahaney\u00F6netimotomasyonu\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF1CE31-0C34-4DF8-9BCC-BC3D1FA951F1}|ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu.csproj|c:\\users\\firat\\desktop\\udemy projeler\\projehastahaney\u00F6netimotomasyonu\\projehastahaney\u00F6netimotomasyonu\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAF1CE31-0C34-4DF8-9BCC-BC3D1FA951F1}|ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu.csproj|solutionrelative:projehastahaney\u00F6netimotomasyonu\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF1CE31-0C34-4DF8-9BCC-BC3D1FA951F1}|ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu.csproj|c:\\users\\firat\\desktop\\udemy projeler\\projehastahaney\u00F6netimotomasyonu\\projehastahaney\u00F6netimotomasyonu\\frmdoktorbilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAF1CE31-0C34-4DF8-9BCC-BC3D1FA951F1}|ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu.csproj|solutionrelative:projehastahaney\u00F6netimotomasyonu\\frmdoktorbilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF1CE31-0C34-4DF8-9BCC-BC3D1FA951F1}|ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu.csproj|c:\\users\\firat\\desktop\\udemy projeler\\projehastahaney\u00F6netimotomasyonu\\projehastahaney\u00F6netimotomasyonu\\frmdoktorbilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF1CE31-0C34-4DF8-9BCC-BC3D1FA951F1}|ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu.csproj|solutionrelative:projehastahaney\u00F6netimotomasyonu\\frmdoktorbilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frmdoktorbilgid\u00FCzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktorbilgid\u00FCzenle.cs",
+              "RelativeDocumentMoniker": "ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktorbilgid\u00FCzenle.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktorbilgid\u00FCzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktorbilgid\u00FCzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:54:25.159Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frmdoktordetay.cs",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktordetay.cs",
+              "RelativeDocumentMoniker": "ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktordetay.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktordetay.cs",
+              "RelativeToolTip": "ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktordetay.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAqwEAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:47:20.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frmdoktordetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktordetay.cs",
+              "RelativeDocumentMoniker": "ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktordetay.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktordetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktordetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:47:13.774Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frmdoktorbilgid\u00FCzenle.cs",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktorbilgid\u00FCzenle.cs",
+              "RelativeDocumentMoniker": "ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktorbilgid\u00FCzenle.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\ProjeHastahaneY\u00F6netimOtomasyonu\\ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktorbilgid\u00FCzenle.cs",
+              "RelativeToolTip": "ProjeHastahaneY\u00F6netimOtomasyonu\\Frmdoktorbilgid\u00FCzenle.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwDAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:55:15.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
